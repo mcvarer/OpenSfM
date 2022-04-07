@@ -1,10 +1,10 @@
 cloudpickle==0.4.0
 exifread==2.1.2
-flask==1.1.2
+Flask==2.0.3
 fpdf2==2.4.6
 joblib==0.14.1
 matplotlib
-networkx==1.11
+networkx==2.7.1
 numpy
 Pillow>=8.1.1
 pyproj>=1.9.5.1
@@ -16,4 +16,7 @@ Sphinx==3.4.3
 six
 xmltodict==0.10.2
 wheel
+itsdangerous==2.0.1
+jinja2==3.0.3
+sphinx_rtd_theme
 opencv-python==4.5.1.48 ; sys_platform == "win32"
